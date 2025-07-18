@@ -1,0 +1,319 @@
+mozLz40 Ÿ ñi{"type":"main","id":"8b50e887-9726-44c0-96e6-948b1bae9a00","creationDate":"2025-07-01T19:20:39.243Z","version":4,"applic9 ó":{"architecture":"x86-64","buildIdX ø0627085530","name":"Firefox_ ô"140.0.2","displayVz   ÿvendor":"Mozilla","platform/ ‚xpcomAbiž òU_64-msvc","channel":"release"},"payload":{"ver":4,"simpleMeasurements":{"totalTime":613,"start":100,ó:157,"selectProfile":165,"after ³Locked":168D ÿupCrashDetectionBegin":216! ø
+End":34433,"firstPaint":3502 ü2":1582,"sessionRestoreInit":459 sd":3580)øeTopLevelWindow":352,"quitA’612446,"pò ÁBeforeChange ó512,"AMI_startup_bß n27,"XP "36 ôbootstrap_addons9 ?319! e"21 p  †  2, ‚finalUIS£ \":460ó
+Initialized":715,"delayed5   C,21 bFinish 7 ±buggerAttac 0ìoö	VisibleReadBytes":103778	( SWrite) d257183¢9upSþ R f583829R 
+) S ñ17574389,"activeTicks":57}ùQcesse%ñparent":{"scalar ósecurity.https_only_mode_enablþ ñ
+places.previousday_visits ñblocklist.mlbf_soft ôs_source":"dump_match","networking.nss_i½Çò
+213,"gfx.supports_hdr":false ò,os_compositor":true,"browser.backup.extensions_storage_size± 
++ –schedulerô m T  CjsonQ %21,ñ
+.seconds_since_last_os_reða":8065½tö global_privacy_control‡ ÷0,"power.total_cpu_time_ms":2432›óages_need_frecency_recalculX4Ð  ù
+up.abouthome_cache_result":1¥ÿloading_certs_task":5M ÝshutdownwriteSQengagÁò	.max_concurrent_tab_counˆ ƒ 0 2áexcluding_susp:V61252c.þ_þÂion_reason":¢Arun- òed-default","contenÊñing.fingerprinting_â6ing­‡!pi~ #in	 g.togglO' × ®öprof_d_disk_space":49390000}É •database_/"2²  Ÿcryptomin° 	õos.environment.is_admin_without_uac¼ ¹\http3ü ±timestamps.û¡_paint_twoís1,"dom.Y›ÿ .os_priority_raised":8! “eferencesw6404xã83¿categoryU É Ñdoh_heuristic«£aswd_enU%edô ð ð ¦lowered":7o  éÐ$_tÑ% 7¤U(Y6 ¬fis_colÊ 
+þ launch_method":"Other"ƒ hÓxpi_directoryp m
+Opassë Ý Šform_hisN BcÝr_consid\-42µ 6ync© ñ“misc_data" >896˜¸credentials, ‘300,"a11y_plate¥Àc ñ5240,"policies.is_entusB¨i“ñ bar_pinned_privq Æî attemptsü
+formautofill.availabilityº  ¢s¿‹/in‹[ ; öwÉ
+ 1locÈÎ_on_device":ÙUcookiOÿ†õ always_underline_links"r@0f< “datasanitÁQpermiÜ£_exception1	€E¨þsJ1F# .U_ë‚gÛ	A_pbm) dñthread_wakeups":232229,"media.el³ a_in_pah¨ œ ã“ .23Ä Qfavic¥		\ Q
+F
+–},"keyedSÊ
+¢ ã_hardware_decoN
+„":{"h264Õ4av1 6hevì4vp8 2vp9 }Ló6ata_transferred_v3_kb":{"Y1_N1":549,"Y0_N1Sys":56361,"Y2_N3Oth":2361}'”theme":{"ð
+}ˆò
+xtual.services.topsites.impr>Á":{"newtab_1-
+ 2
+ T3":1}ðN
+Cper_Ž B_typ_
+/2.in‡¶":1443,"parœ":22877}0Ê õ_handler":{"mailto;C.pdf
+ A},"t]’try.event¤ödoh#evaluate_v2#° Ý ¤doh#state#s
+ ñnormandy#enroll#nimbus_experim
+
+3Ÿñ .dns#trrConfirml#«x‰
+O _xposeO 24,"ñManager#uninstall#o> :ðBore#1ò_can_be_loaded#sÕQ_file	ôupgrade_dialog#trigger#É
+31,"j ¹ 	‘seen#stub! '7	× &oFailedÝ &1}òui.toolbar_widge§…bookmarkˆAageaqr-urlbarFô,"save-to-pocket-button6 nav-bar-ËØCfxa-p _-menu2 ‘vertical-M \  
+^ û[-viewZ Wtabs-¹ ›downloads( X  ´ ”personal-sá  Z × ä ) 4off¤ sidebarw 	Ï 3tabE-tabv Ë Wtitle5 m 	¡  nŒ 2allM 	· änew-tab& {forward& O	Ø Åmenubar-itemÖ 7 ¡ObackM ¯stop-reloa| …unified-j +eÁ_ever_trippeÛÓzscalerCanary”  6rox 5vpn) 4nrp/†,"youtub-
+õ thirdPartyRoots5 cm Vgoogl6 APë4 8
+74O29104 J9319#‚trr_conngF_cycÏ
+2{"m]ý.cloudflare-dns.com™¨customizedœufxms-bmzadd_na_ëR  ì2speF$ve£ b_outco² ‘aborted_sÎô_limit":333,"successful":68}}Ï †‘histogram>óCYCLE_COLLECTOR_MAX_PAUSE":{"bucke V":50,= ³ Ç	òsum":10,"range":[1,10000],"valuá0":28,"1":7,"3þ4":0}},"GC_ZONE_COUNTv 2v +59v 	t 2Ÿ 3˜q4":6,"5- 6 7 S/ED„ /45„ 	0l 1 2Š 3A4Š 5 
+ .MSƒ }	+62ƒ 	0	1?4‹ 5 6‘ 7… 8 &10¿IN_PROGRESS’ ?838“ !24” !29‰ 3– ‚7":11,"80&96 ÿBUDGET_WAS_INCREAS¨3¡2¡	 2(Q0":52 QSLICEm NLONGh 5m^_MS_2h õ	5xõ1Õ 4tõ3õ1õ1õPREPAREñ	_1þ !14 bOMARKe /31U0â{3ù 4ó î~ _SWEEP äå !10† n COMPACTp Ö1vî n ¼±/57[3À4t UnMMU_50ßÛ1°/12Ý!73ÿ 7¸!84û!896!95 '10ÎMINOR_UZ ¯Ø-93ˆ k0Þ15ˆ Ù1ï"17  ±!28 3# 6'6 8Ô "14 1 "192J !47Þ1281n 2320 !64 "41þ#61^ 9"900 1Y 1330J 2151‰2172D 7196[ÂTIME_BETWEENh7­2+0”B1,"1Ñ"22xÀ 5G7,"3› Ž CG
+	f2·C7L5Ú1ÚCþMEMORY_RESIDENT_FASTîh
+W972804 é32768,16777216¯Q54527rB5811B6193þR10305a109828¶ [11704¯ _UNIQUç	 ¨ 
+W35790í¨ TC3966ƒ	2227¤ B4504äS48009
+F®JS_GC_HEAPC/20
+W67584Æ?024A2286@A3011ùA8022!
+#88uC9292˜ ÏGHOST_WINDOW? /32>  )Y1,128È0)1g ÿ PHC_SLOý  /48i  H6234?º4096,838860u 12997Q,"353Ib,"4169Q58089B6856uD8092i
+¤ ¯TS_ALLOCATŒ	/64¯  1oI63849<¹1°7‡2Õ
+ ?FRE‰ (672‰  4<4¨!53N6‘ 9Ù!071'ÿTOTAL_CONTENT_PAGE_LOAD_TIMpRY
+M00,3~#24
+÷$27"ÿ	SCRIPT_PRELOADER_REQUESTÆ .51®5‹ '31™:1,5#} Q":159w	‰þFX_ABOUTHOME_CACHE_CONSTRUCTIONÛv
+8 ^1N1á1­Ì#58“ ñINPUT_EVENT_RESPONx‹ /	O1477 	½a0":489Ú110812201345I#40Ž!35M"54O2668–3306 ó420,"12":1465,"14":2214Q2573Q967,"¶ "78# T42,"3eý ŸCOALESCED›
+O70012
+"22W
+!357Š!24±169,"5":16712241275256927192729'b17":41þ "76ý "87ü "79ü ò44,"40":30,"48":99f#59n	7nÑ55,"96":37,"1cÒ8,"135":9,"16Ë$19YÿMEDIA_SNIFFER_MP4_BRAND_PATTERÞ _	'60â^	6	^ÅWEBFONT_DOWNZ¿_AFTER_STAR~ Õ	H6353„ 6d1345’14282155=4192À !JSë ŸEXECUTIONZì
+	ä
+Š Ì
+1( ¢ z ÿ BASELINE_COMPIL
+
+ 
+0l 
+{ ?PARRp ,Fp U?INTQë	9J»1687`6º´²2°®1¬” óTIME_TO_NON_BLANKž \
+
+M2516}
+n!68¡7ê9M
+"48ú2153 4170_	¥ TFIRSTœ ?FUL¬ &-84KM"10?12ç
+1289@#54L¯  °ÏQUEUED_CLICKP 3â5R¤ Ë2 ž Kï†
+1¯ & 1V²  KEYBOAR_
+
+6
+´ ‰ ¨ 
+– 2É +25œ¿DOM_LOADINGC9224˜5ëƒ Ÿ4£"17 "45 2143£ 4157;œïDOM_INTERACTIV» 9235•© ?€,6¿
+M© Š[
+Dw[ )36H² “çB1,"2´ 3/EN› H2443¥² 6¬² &_MPLET 9311¨ 5Ü5©1"50f"55 °d1,"173™¹ô Z® d"¬ QAPERFO	¶é U2“
+> í0íå‹ EFROME
+ó$/16U5t
+A9ú$10Ð
+˜ Ï 59161
++¹0$Œ ,18+798“#_LARGEô2?159­
+Þ%	Ž 	'O%6ó!61ž 6Ñ}},"APZ_ZOOM_y >ITYó&6N)4REL¾_MISS_RATIOl .	*40Ò¿!37
+p40}}³(H÷ñNETWORK_ASYNC_OPEN_CHILD_TO_TRANSA¨A_PEN4	$EX0È q	*49¶
+ñ’2o#	é6—!86x"99J1Ø1511›1672 7ô1O 0Ü0Ü
+ö  1#Ø15Ã
+t Ëþ i 4b 	Ì
+b s2Ö Ä /40c 	jc  9”ŠF”PARENT_TO£
+z'2ø
+¢ Q0":130!16€3
+Ei Á2g n2	õË µ \ ,É¶2	<Å 2] ˜ &Ef$jÁ2Ç 1ò¾ Ý½4S ½yž	±1WÅ "©ADNS_Ùp	
+»'	Ù&‹
+
+*¯ %BYÍ
+£ 63$#Ê0S 9j "21CÓsCODEC_U]%žvideo/avc3	 4S 	Þ ”$!0}u  <q:J4728:,2T77535ç š1S p0
+áweb.backgroundÚ „web.fore ô2304,"prealloc":403,"privilegedabout":2018}²2;2# ^?trué*­ .44® X55878¯ O2042°  Q19571‡`,¦2	(
+*5T'1# *(
+$1—67±9@ Œ*
+*&3Û	z x	=3€ ¿z+
+Ç\Á 4d [
+öMð),4e† 4y5v ¾á)XExì á)Fh á))
+vSÙ2Ù3Ù€ È)I5¬Ç)%H)0f ˜1å ß Á)#1(  ä ¿)%	_
+¿Ú š	0m 0Î	3– (" )$4ÿ	ð/7ð8h!89n9t )#.68ÂÒgl† |2V)2¯1247J.)&)1&)2)Š),4R'‹Ô6ß 18,"Æ%¢Î@1	2y	Äa¢aý(þ %÷()W41419?O(
+÷(7÷(Ž Ö("W13826:‡ 0y ! 
+y ¸(&H4710°¸(2569hA5979A6925Z4727¤'¯(H n®(#W10897Ò®(1130gr,"15424‚ 4820H‚† ('2ü(w€ | ( 8’
+ ) ü36,"G 1‚ ß'45}*,5p!L!27Mýõ"R ikW"F)ç	0~	çG0":1m Ñ2 &)19t N mÚ!50j‘6»" .~(-ˆ y7> µ"92(¡ +'385 ±2Å»,™ ï#— AÖ& ;¹0‘ F­iª1
+tN »	¢ºG D3928a  ?440¢ 3 { ¡}},"dynamiFò• }},"gpu… bHECKERL&!DU6e+è	.09#
+ë4&2,"32ä/7ôT.8³	” OPEAK0=Y55803"]66355€4A9226K!42
+ ‚2,"88147  D2735
+‘ OTENTIAL/$;2291g
+18š ß(Ý=a49":5666V!58Ÿ
+3„-B,"44Ü2307
+4405¸
+	À _SEVERˆè 	<121–.z7374182^2"55º $85 021994305‘COMPOSITE…#æ=376v	'R0":49A1653xÄU3J4 ˆ.3ª39Š
+1þ¶7¬4á5ûë "15 2É3µ2Ù-
+è OSWAPí  9563â<1449b9ë 1ý
+S3":63í 041"25ö 2÷ 6÷ 2634ªñ GPU_PROCESS_INITIALIZA†.Uû
+5Ï,64"45$"49$55´	óMOUSEUP_FOLLOWED_BYÁ+ÿ PRESENT_LATENCYQ2X
+2–	R3g@1Õ2(2<3º+4] QSCROLš"™ ,
+I1591ìœ 
+› 1":0âw VC<p,36î933+ó6
+3úR17":85:ƒ=1†R3":13Ab27,"27Z"29ø<"32…1¢35":63,"38¾6"41 ¡45":34,"49_ ²Œ/4FULG.œ/285"505"20B 2”/324Q:3
+OFRAMº"J8884‚
+†-6ÐbØ9K
+1i#13 5 :2?7»2ËB)7à 5Þ6zõ/ =!61ë:”":526,"12M9!40 C2,"4ÞA1059 #14—+2197ý5000":45n_VSYNC¤»>G4462U!M8,79qB035¼#32¼525Ó6ƒ
+7Ä8‘+"96¡04":139,"1&6#75r24,"12854Ø R2,"16k1à"22b 3£04'± 7,«
+g|!ms"É›mÆ7è_10461Í
+ m "H¸X{[
+E1598È
+€ 2 	"77ÓZ …H	»
+¤ B}},"™G
+Î
+ø
+î!/76"6 '® %76í 	/ “65}}},"ut³S@í )/60í 4252_ Ù° 6Ö0 A252}ò 
+'AA11Yá:OUMER_; 1%> /1!
+ 81
+ «)ìoLAUNCHß1úß
+} 1‡ 5Û1‡  ‘	1,© AINTHREA~1 	U² Ö( 
+† ¥=57®‚ R# 3™¹>§
+~+À%/241¸ž201,"2ð÷§IŸ ýü# 2ü#	‘ 
+õfû}L3
+SDÙ¼FÊy
+Ï?	Öé2§ ‹"(
+…*"28,"±°=s ‰"&
+º…!2˜- ~ |
+4þ…1K=Mj=1	1
+”",)78«’ 
+„L9™D5
+8«
+2ˆ	2Žv“LM*'
+ “LA
+h ²"*
+v5xLŽ8óZ:u?Ö"I1q"wžL")10¿puF!10Ž | Û"#
+| ò1òT#2ò	Œe'|3V
+0Wc 5› !'Ê"!,70(	‚	.œ 6%]7•27_8Fæ"$>329=™ Os	1S1D1è2L32,"ð"7°‹#M5ôBcB	4  6¯!91  "21.#|LR3,"328 |L]áLâ7ÄL^#S2,"10ZLà3ßp#„Lü;8#33œ:A4279 #63é2819? 2932«V10619_
+°#,6Ö ;0Vn1` 5Ñ ³ 12‚*ÿ 1êff¨_—e›û# 5¯ 2\9
+wv ÜI k¿
+YÇR.‚56ôAÔUB,"60¡6 ÿ!$)I3293vBÚ#8LC3241_R345413LR36811¸A3923! Q/NgD
+g411824• 	t c,"4180äOa445575ë
+C4748ÊT50607
+  0%"g2085517¡ A1947u r,"20757i1221L‚6,"23575–[25125¡ X%&H3717¤ Y% 3384Z%B4042EB4245pD4459rNHä›×$P>N	g102809‹NÚMT,"955KQ127319"13JP“  j%(
+îHúMEM“,"26":8,"3ó$
+u%#9204ò$„ 1Ú1214˜2+#?IFEì'24%['83Ôk15,864x¼3Ž
+¥R1,"52 7ùýIþ FINGERPRINTING_PER_TAB-¯	
+¯˜ÿqHTTP_KB´PER_CONN°X0v»0m
+4*05;ƒ ›<oIS_SSLð »n%ò ¶ ' ‡û 1PAGDOu ! ‹s  y‚:kÿTLS_EARLY_DATA_NEGOTIcQk 1‰	Ú3Ñ
+Q0":36hp ÿSSL_HANDSHAKE_VERS]!.17Øm ¸tW°T#3Ð4| Ï
+| _PRIVA| 
+
+| ÷:91l3ˆ 6o2è nRESULTl/67^ 	„-67n/44†o ¬J/TR% y +3y ¿CONSERVATIV±R | *S;cŸ_ECH_GREA`y *ô°
+¯UNTIL_READd >200ô·
+I1158î«N5F5ö5ÛX$6`8
+8™5Ž
+dñ"13¸"18}1 
+2`#!,"m
+C6,"32*#38²!06òì"48
+5B50 R¦
+662H 9QD,"95Ó9§	C
+bC3C´qF
+?263ˆ
+5·Ï
+S8jJ12
+µ	½ 
+:895&
+æE2Ä 4E+5E=5$76:ÿSSL_BYTES_BEFORE_CERT_CALLBAC0( 2Y
+:414*M3w2244²B2849!x2331i#38L!!44”5e0,"521$ïSL_RESUMED_SESê 2nã9` ä	RVALIDŸ%d	X‰ l 
+
+\
+
+1 }ÿKEY_EXCHANGE_ALGORITHM_FULW
+  
+6Ù€  4îPH† t‰ 	2	ˆ 6ú ?PDYÙ,8290¬~0t
+ï,‚	31,"Ú2x3ç# ‘N"23#71Æ#39R#32É5165¯]LÿCHANNEL_DISPOSITÓ
+9363™X
+31ÓÑ	S0":31·&c	‘ ïONSTART_SUCCES*  f8399g
+P
+K& ƒ0
+AWAIT×)o_HTTP3Y ð	2,
+
+&f0":198ËÒ5_8Õ
+8¬,—  _2_SUP¡ "I1242ˆ£ %57¼]	D1,"3	0Uÿ}},"DNS_LOOKUP_METHODë †	9128Š ="69—„D97,"! ‚ g‹
+0Ø9W	6-‚9‡4‚1A2/Ì3BD1,"9Å
+ƒDNS_TRR_1INGf`´ 
+Ú:,"17.
+RYQDNS_N¤®, )83€),08-6¹34,"º4à;6;Ç,L5ÿDNS_BY_TYPE_FAILEDÒ '9251V8Ò ”"1ä· 9· 9· 7· 027¾ 5ù¶ Ð/ED¹ *8“¸ 2v6> b1« ª 1ª #_QUEUIÍk—		’ B0":6Õ"n ¿-
+œs ˜¢1nñ‚ ÿHTTPSSVC_RECORD_RECEIVING_STAGÐ .51çÄ3Ú5× 7"B8":4œ/„ á#UPöaÖ	ê w sb*13(x ;R2":68[y ;39133h | 6Ì‹'66LÖNID_ONLINn÷  Rx á 4ò ÔURLCLASSIFIER³OTIMEMn3Þ 	è9  1
+u rSHUTDOWc1ô	u ú
+;z
+v 1CL_04j1ë §rê dVLPS_Fòfz -ä 
+ð | Ae| 5È¯2\â4¨/p_ÏPLACES_PAGESŸs!o000,15å|	t BOOKMARKx í 	
+x /,8Ž 1nt ÿDATABASE_FILESIZE_MO \	 y >5,2\0y
+3z AVICONSƒ 4ø'›k
+åñFRECENCY_RECALC_CHUNKiY,l  O50,1ôÍ=£}},"UPDATEÐ3NO_ _NOTIF– 3y zNs CLASTh x_ƒVAL_DAYS ÏD*18* Íó BPINGXq  î 7ÿSERVICE_INSTALLEDu R2,"su·é
+‚?ÚÆu qMANUALLp € !ã%!NO kFV OENABƒ %¿CAN_USE_BITY 
+			( Ž uÃFX_NUMBER_OFÚ!_»:qORIGINS%DOCUMENÎ 
+		›Xå{dok&\23454{ X"67¶ »	2.e8"79î2175ñ!16a":1708 A1704Æ
+B3593™%B3500)B3468)!44Ü<7y/2Â)!24÷!29šÆ68ÉR1,"75É%#128(#25Ì4299ß*0¢k':968Kˆ2Ë
+76\95’37,"4":11*2128&"601!9602967/B1672/4171A/$34f7.6¥k2182121193"56§k"89-"36‚-1§k6T3¦k©9 [$FXÖs_RESTORnZ!UP(< â*2K
+vU
+ô… !ONˆC´<krw Ž 		µŽ W\Ç1¥•  2ALL~_CORRUP( ƒ   •MS_MESSAG#m ö 	2¿
+¯Kšr)¹óVÆmgÿBROWSER_IS_USER_DEFAf p1m o_ERRORé xãs 4SETÜ ÿ_DIALOG_PROMPT_RAWWß		 2 
+ƒ bALWAYSp
+ù 	C
+
+ü	UMIXEDÇ^_IMAGEÐ	«
+”EC`6SIGNATURÑ#BIFICh_STATU…  2
+n
+Ö
+3 Ubðs"V2åb[o		v » I"
+x Hêw ?^âÿ TLS_CIPHER_SUITí 6¦ 1+7ã6¤D1®"14ê  Ê.9ßA_ECDHE_CURVE¸3¹%9¨38!28ˆÛ4Œ)÷ SSL_AUTH3*2x	Ýý 7e,~ RSA_KEY_ª´24%#F1_"12} Ž	~ _ECDSAy&
+¨fx2'!23ú¦6{ AREAS¤OR_NOT_FAL-gÜ1< 	d-51Òqó%(?TYPì 93j )15l 8ì0Š 1z2v +¨ ïSSL_OCSP_STAPLè | 	0	| äa5 ó 3CER" _OVERRIDÃf	
+æeú 5x ’PERMANENT3"¤ ‚ 	Ž		z:102g
+¤
+ƒSSL_SCTS0 1)Î1+" !19èí q U,/EC¬y &ÉÝy
+~ % ü 
+†]â1118×v<„ cV› v 	
+]u ]n  y#·SÇ/CA5§ì@Ð.×5œ*25A6á!61vQ89":3Æ@D6":7à!¥DŸ sPINNING$® Ó œ
+ £	ë}p 4MOZt _BY_HOSû Q
+6fS×Ü//øS5ÍYo12,"34™ T%®ž "ŸðXÊ4N71u ™VCHAINs ²t 
+±
+Š!	°ÏOOKIE_BEHAVI¨/16Ÿð )15“
+'qTRACKINžT‰(
+…	r
+V !1,	Kq qPBM_DISžv C¶QUERY_STRIPk ’) :2ÿGRAPHICS_SANITY_TEW(P‰z8/øCäy(83‡
+ÖÅã-1¥Z 5NF+iÝÏy+)255’ s€>.34 ñ2XW40¿ õ
+{Õ " ±17Ò  ïy')14@)Õ Ã ?
+ ¥ (2]3ÿ 3ñWEBEXT_BACKGROUNDÓ_u"99`³, 77B,"79\C8hr‰ cEXTENS‘‡† =7093›#55Ö1183·2130%14""BF´OCOMB‘r
+öO5… ;^&wõORB_DID_EVER_BLOCK#‰j&2ç2(JHµIoCANVASH7~unknown“ o	ý
+m ] _matchede A …*ñREDIRECT_TO_SCHEMÆ
+Ahttp”thr ¨"	å ó0/ù  sDNS_ENDÚq4NEC+zàqNh2_0 &	1Šý1S@9PÅ–ÿ3þ6bFINISHË´S®KA":{"noneš Ú0
+6‹
+Þ"6˜‡1‘Šÿ}},"mlkem768x25519t 9168ìv 80H45G-Ã0‡ "?991ý 5à 5Õ15ª "88Ã0Ì0É:Ì+)5 "31€)3ßPé 3P )5
+!5"91Ñ5Ÿ:²3_ECH_OUTCO[É63Ô U
+	f3?
+2%Þ { ò.q_UPGRADå|3NoR„¨ï)65'ñ!38• '30'x "Wo|˜c
+ös <28
+æ k oUpgrad¯ Ñ
+	
+n 4¡?L{ LPAGEá/__TRR3Kš
+1³	{60D2'y0?SUBœ m"35m;3I>k
+±CLOSE_CODE_2ä¢Ÿport_clos" /10¤ H
+)4 É1appe ?ingŽ f 	1¤!‚ÙJ4«›3´4• 
+28 û1		îÂ1i?no_f *32s g & í	O1)TR *Û ^	ù 	*28• ÷¨,91
+7 ê0#12P-1¿/” /61 á e	B?2õŸ	3
+Þ€(16¢ƒTRR_SKIP;ª1 ¡ 2m+13Ž7ƒ2#„§ !NA‡ L1« Ì
+0£ °1¢ 91»L¢ D>RELEVANTî  97ì–3ð§ îG¹	5WJ	¤ 0’STRICT_MOH	´ž12óO4?RECü9*13Üž‹7ý2¿C54,"nV…ATTEMPT_þ!X	7</70Ÿ 4-1'4'ÃF7ò! m ˆ È6
+ {8 >; :8¸D !70õ47/…(„(2»ÿ
+,1CS=3ED_ƒ,"TI
+agoogleáU	0D˜0,"sum":3SšN20,1×b2‹B,"321440™ ,?¦ÎG.	9q 3ÏØ“V
+ þ tREMOTE_KI < 	]3ëšû  :•
+		#
+"
+!ASERV™œ,(*8û+b1771Â !11†h- aTIMEOU„&l	¬
+k 6{¦] /†ÿ		Ú ÿÛ _ 1ò	},"EMAIL_TRACKER_EMBEDDE"M!TA<4îcontent_normaldk
+
+é á9¸o,"basef O?alle M'°±_BY_ADDONIDü«ƒicturein	 @Ð?.orÍí'86»4HÚ1ÚŸwebcompat *	ÃÇ  v³| )3m| Á·‚ )1¼þ  þ²”-search-d5Ã ?comz8æ
+¾å»Õdefault-theme® ¸-59
+œ "60,>9?132‡ ƒ0ƒ)2ƒB19134Âp:ƒ 
+F.9128Å€  "07w‰ ¼!025	J6?127† )N??127—
+ ó },"QM_QUOTA_INF´vÏTIME_V0":{"N[ 6ê
+B
+8T6F
+"QM$54 ]pÍR":{"DÒ®RepositoryxÃ	±$2Cù¿,"Temporaryo \SÇ¾Û R_Groupj IÍ Pÿ PersistentOrigiP  5,	“A%(Ž6$Q6((Ùò_TRAFFIC_ANALYSISÐCgµÐ5u ¾3­-‚2Wh1aLu%Transact¶Ìõr 	á
+a1m 2¾oÚrSQLITE_f81OPE¨x”¿s.sqlitŸ	œ	 òÿ2823318777ntouromlalnodry--naod~ ASr_favicå OoÁÍ Lÿ2918063365piupsahp Lÿdomain_to_categorã D .ÿ3561288849sdhlieâ A…%ó,"bounce-tracking-pro«y A è †_-pref‚Mÿ	1657114595AmcateirvtiStyã A ¢3Lá Msÿ Ð A ³Ÿls-archiv•B ´OplaciC úÿ3870112724rsegmnoittet-x $ 7“9 *
+ebe2dd33´L­1451318868}Oepcr~ A{ æ. | Lmÿ} `5 ~ Ji JØ®N€ Q&77q  UtC3‚ Qp ƒ [9]ƒ N3±æ „ Y'16y † M ®‡ H+aˆ L‰ R2ž„‹ ;	é,š
+M2226ó9Ž I5 `8 
+á)ˆ&ß":{"11_1_0_1_” Ÿ1”)29)vÕ^Â85Ã829A!20u 7u 
+d(u  m "10õHê 0b;ê 	
+Ô)t  1è l 3á 0á 6U	•k2":1:tj KÀÖ (6B¬&	G.1à6O11_0(!1Œ	`T1ý6o*N7n ?0_1ª8	 m 5l !6!l 
+!]‚¡ Ý q 1q ¼&q o ¿
+ºá ÍsÁ3J
+|si #K Jts ‚Ct 6Þ 4,³Mç t 13è!Sl 
+€žß 
+Sì)Ã},"info":{"r3"ÊÑq,"revis;"7g://hg.] £/releases/ - ò/rev/b27c61d0860f58ea4ebe4ccfa187f8e0b8e6ee8c"ÌÙázoneOffset":-2ÕöÞBEãEnull‚àó Id":"6c70c1b0-d728-425f-8219-c81d51108cb9","subÙÑ6 ö7da7ec0c-c5c9-4ac8-a380-4ec80d7100c5"€ S; ‚ ßSW  k qCounter0vprofile1  › ùStartDate":"2025-07-01T15:00:00.0-04:00Ï 4 Å ¸Length":612¬ 	 ÿ)":Ø 4%40®0¢org:1.0.1,/ s40.0.0,Ž"—"' % l 
+¹  , Qcom:2, b"  Œ ‚40.8.0,d{M $ Q.4.1"¼Qlientñ39c052a9-443a-4f1a-8826-d556d94b1bb2½QGroup8 òee4d4cd0-1515-41ff-ae89-cbcc7e3d1d42","environòÔ{æÄ":{"applicatñ{ec8030f7-c20a-464f-9b0e-13a3a9e97384}"¥39 N>æ+‚æ3verß³Væ„æqæ"öupdaterAvailableý¥Bartn°Ö„distribu$\ äæ < $Id , /or  tChannel > ñNames":[]},"syste5#ñmemoryMB":32095,"virtualMaxMBr!’217728,"c»“ÖisWindowsSModÜÑ °C·cores":8,"p m F0,"e ’òAuthenticAMD","nôAMD Ryzen 7 5700G with Radeon Graphics  ’","familyµIñmodel":80,"stepping€ õl2cacheKB":512,"l3 !16,öspeedMHz":3793,"÷ãõ":["hasMMX","hasSSE	 2
+ 3
+   4E4A GE4_1 8 #AVT 4AVX "ES( ÑUserCET"]},"oÎ=Ø¢Year":2025 ’uperfetchy 9Pre ]È1_NT/ó0.0","locale":"en-US","servicePackMajor
+Ü #in w!Ú¡Number":26›' 1UBRc¢b4},"hd?i¨Ô{·ú"SAMSUNG MZVL41T0HBLB-00BH1¿ ¤HPS3NHAV",)ëUSSD"} èT : :^§ -ä},"gfx":{"D2DEçÕfalse,"DWrite “æCt*ABackØõ"Skia","Headless> ÁTargetFrameRz ò60,"textScaleFactoÁ òadapters":[{"descripWñ	"NVIDIA GeForce RTX 30502ó	ndorID":"0x10de","device C2584Ð !ys ñ
+8cf8103c","RAM":6144,"dri‡ëR"C:\\WAS\\S£Q32\\D  ¶Store\\File#ÿ"\\nvhdc.inf_amd64_5d6de6abd3007575\\nvldumdx.dll,c ÿ )J‹Ob µ"V»3&Õ"32.0.15.72473 Dôõ"2-15-2025","GPUActiv—ïq ^ E(TM)b ï,02ïK1638ï8906ïm » Ï":"aticfx64 	  Emdxc #32# 		 Bmdxc 2umd, #dxO 	 Sumdag - 	 Sumdva	 %6a5hõ 1.0.21910.110047 lš6-24-2024lÎ£}],"monitoióscreenWidth":3840, ‘Height":2|ù9CSS·2ts ¦1,"refreshôrpseudoDë
+  Qfeatu­	S{"comÕ(ó":"webrender","hwC @	Å{"status":"aå
+ÚAProc€$ W #  rn o& dopengl* ˜ éunused"},"omtp  Ad3d1ŽÏ   >³45312,"warp9C qureShar{ — •blocklistÆåQ},"d2Ýd 1disâ ö:FEATURE_FAILUREN | Q"1.1"É¦appleModelõ hasWinPackageIdž ñsec":{"antivirus":["Malwarebytes"], tspywareSfirewall/ ’cAfee","WÊ	$ F µ]},"isWow64q  5ARM æ},"settings":{ÈOe10s  SMultiKHfñæ- 
+¢
+1intƒ3¡requestedL" Æ
+&],µ /pp õ	 ßregionalPrefs! ØacceptLanguag‹ A,"enÏ2ƒ¸
+"jg0eµautoDownloa Þ´mAuser“ €è.ã’.autoFill- , .
+BiveH,ë.Š Î
+8 ñdnsResolveSingleWordsAfterS¸1/à‹ òquicksuggest.dataColl«ßo 
+6 	C ¦nonsponsor2s 8 
+5 §ßý
+.http.microsoft-entra-ssož 1 ótrr.strict_native_fallback{ç“,"widget.1ö.gtk-high-contrast\ Xòmedia.gmp-gmpopenh264.lastI'È":17513970584 ¿widevinecdm4 h qd 0 U. ’ ^  9Â 	
+^ ñ9},"sandbox":{"effeä(
+K1Lev
+7 òWin32kLockdownSt³ Ã5},"launcher:  0<C6ËibilityCheck˜2isD¬Byú%at÷ïõampaign":"%2528not%2Bset%2529"©   %dlÄêò1mozorg","dltoken":"3e820228-a351-4dac-9780-a17a6fdb1df1","experiÇˆ amedium—•ferral","z ñwww.bing.com","ua":"edgE 1ari	Z }Ý#ƒEngine":Ë=a-b-1-dg
+
+% ò	Data":{"loadPath":"[app]: AGJ "§missionURLôBwww.5 R.com/«?G"=f‰ 1&q=®1Â!reà D<Q20270I WstUse };Rs":{"øêA ˆ%6 –õ .0.1","scope":4ì›"K1Day®"isDIdisWebEÊ bmultipº	Û·Õ,!R±Form Autofi»SuserDò-pp sforeignÑ+ ‘hasBinaryê	FnentÝ í ô quarantineIgnoredByAppå   Uš2},"ì÷€"íNew TabyšHƒ…ø Fixes for web c¯!Pi¹C-in- ´ (-I 8—aÇ
+âÆ:comÈíG‹‚Add-ons •3 DeÅ0XšO‹x< SZU€Ä"Urgent postv/ fg .PDWeb Ç¢	’ Interven)õ]—ô},"theme":{"id":,	- 	×¨ ò "Follow the operating Ù ®Äóbuttons, menus, and ¶ gZ ‹ Ÿ â€” auto! ‡½…,ˆ	X  #},{	rGMPlugiŽ	X
+­6 5lyB|—{s":1},"è
+V Ÿ4.10.2891\ !(}}³Ã b„ ó -ªÃ-unelevated--	­
+´s-rollout-3\&Aanchð„b
+Unimbu6 "Õduct-insight-dõõ-via-server-knob6 j ò$ol Àr Ñupgrade-spotlt Å 	» QtreatË½ “address-a¨
+Ô-desktop-pref¨ ” -A ¸ 	¢encrypted-Sñ	-hello-fallback-mechanis& i Y 	üfx-accounts-ping¹ -IR ›Ñ-ads-startup-	c› ×òòapi-for-spocs-and-top-sitesíTolledj+ s%O-133v álong-term-hold]Ô2025h1-growthç	X + 
+jô ¢F-ui-+ô -logo-in-cornerÄ 	\ 
+# 
+b ÀÃ},"pdf-annot BhighåÑ/-bd    a 	òonboarding-set-up-che­-Ü_ i-marchÉ  e $]Õtab-groups-50T 6no-ƒ 
+\ 0 À 	óshortcuts-visual-â- „redesignt 	f ' n 	l$d-÷…138-broa¬	] É-'\ 	EchipüC-to-c	R d hapromot†f }¼ØCbar-JÜ v*N 
+é 6P-U2-cayW ø 7newå ’Cence Äment-phase-6Û	\¦/-a¿ öcustom-wallpapers-no-messag­	_ Ã ‘spoc-posi‘
+å-and-placementU µ;!-aöÒ-heuristic-re/ioÞ!) ù kó-show-relay-to-all-uqs-next-˜¢up-modal-cºo /:"# ˆ Whide-†Rs-on-Âç-articles-fix-¶È ¥BimplžùxchatbotwPÄ-copy-1-step	·[c©2 
+}~{Uv2-cf/ 	v Ý 1‰…Uxtualç !6ionÒ!-auû’switchingÉ ² [ô 3 õ 	aenrollÈ6 ^
+4for1Ï ü QsmartÎ §Æ % ¸ P"}}}}
